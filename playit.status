@@ -1,1174 +1,538 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720150091771 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720195195932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150094816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195198990 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150097879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195202072 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150100940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195205173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150103987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195208262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150107039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195211318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150110079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195214376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150113161 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195217439 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150116212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195220507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150119265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195223566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150122426 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195226672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150125487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195229727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150128520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195232835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150131577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195236576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150134631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195240124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150137668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195243192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150140707 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195246296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150143783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195251526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150146834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195254622 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150149909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195257729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150152955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195260835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150156023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195263936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150159077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195267008 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150162124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195270253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150165186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195273369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150168253 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195276477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150171326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195279521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150174374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195282568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150177415 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195285624 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150180457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195288715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150183515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195291780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150186566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195294846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150189672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195297903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150192747 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195300960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150195797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195304076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150198858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195307130 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150202097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195310202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150205181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195313252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150208231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195316318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150211269 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195319366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150214304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195322532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150217400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195325720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150220461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195328863 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150223687 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195331957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150226735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195335004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150229809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195338086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150232878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195341147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150235914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195344223 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150238980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195347287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150242053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195350359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150245107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195353473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150248140 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195356540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150251174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195359600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150254220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195362708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150257256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195365764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150260350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195368814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150263410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195371905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150266497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195374955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150269548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195378038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150272644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195381112 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150275722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195384155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150278774 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195387202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150281835 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195390253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150284910 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195393313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150287943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195396381 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150290992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195399495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150294028 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195402630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150297069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195405732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150300102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195408783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150303184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195411823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150306242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195414859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150309290 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195417942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150312383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195420998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150315418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195424075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150318454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195427215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150321518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195430268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150324562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195433316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150327618 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195436397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150330696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195439453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150333734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195442511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150336789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195445591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150339825 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195448694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150342865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195451729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150345991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195454778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150349033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195457837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150352158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195460895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150355255 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195463932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150358306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195467102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150361342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195470220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
 card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150364375 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150367407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150370465 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150373565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150376642 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150379683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150382777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150385855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150388904 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150391957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150395002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150398077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150401132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150404178 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150407233 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150410267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150413386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150416438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150419494 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150422555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150425609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150428655 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150431717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150434752 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150437826 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150440867 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150443957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150447038 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150450075 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150453114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150456162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150459197 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150462258 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150465329 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150468386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150471461 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150474496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150477537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150480602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150483650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150486729 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150489823 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150492871 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150495913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150498978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150502076 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150505163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150508217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150511319 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150514402 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150517479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150520537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150523579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150526629 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150529702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150532755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150535828 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150538888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150541960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150544995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150548042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150551125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150554199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150557273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150560349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150563392 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150566436 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150569485 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150572534 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150575588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150578628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150581742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150584779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150587815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150590873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150593929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150596997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150600036 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150603116 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150606166 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150609214 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150612276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150615320 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150618375 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150621452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150624578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150627631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150630705 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150633752 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150636789 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150639836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150642884 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150646024 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150649100 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150652145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150655179 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150658238 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150661274 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150664324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150667407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150670473 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150673547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150676587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150679638 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150682673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150685712 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-word-alarm.gl.at.ply.gg:29596 => 127.0.0.1:29596 (proto: Udp, port count: 1)
-card-aka.gl.at.ply.gg:29599 => 127.0.0.1:29599 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720150688782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720195473265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
