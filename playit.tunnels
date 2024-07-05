@@ -9,51 +9,6 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "word-alarm.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "64ea31ba-7465-41e0-a6e3-ca2db2e84616",
-          "ip_hostname": "16.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 29597,
-          "port_start": 29596,
-          "region": "global",
-          "static_ip4": "147.185.221.16",
-          "tunnel_ip": "2602:fbaf:0:1::10"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-07-05T01:34:48.680759Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "c0985579-edec-4f58-8526-a8e6e3813729",
-      "name": "unnamed",
-      "origin": {
-        "data": {
-          "agent_id": "6e89e167-a967-43ec-92b0-44d71c86e0a0",
-          "agent_name": "from-key-30f7",
-          "local_ip": "127.0.0.1",
-          "local_port": 29596
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "udp",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
           "assigned_domain": "card-aka.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
@@ -98,7 +53,7 @@
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 2,
-    "desired": 2
+    "claimed": 1,
+    "desired": 1
   }
 }
